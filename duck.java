@@ -5,5 +5,10 @@ public class duck
   {
     system.out.println("A duck can fly");
   }
-  
+
+  /*Tom only*/
+  public eat()
+  {
+    system.out.println("A duck can eat");
+  }
 }
